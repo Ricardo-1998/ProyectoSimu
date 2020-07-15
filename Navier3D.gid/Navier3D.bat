@@ -8,4 +8,4 @@ del %2\%1.err
 rem OutputFile: %2\%1.boh
 rem ErrorFile: %2\%1.err
 
-%3\NavierStokes3D.exe %2\%1
+%3\Navier3D.exe %2\%1
